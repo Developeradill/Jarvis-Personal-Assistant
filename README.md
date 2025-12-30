@@ -77,7 +77,7 @@ cd Jarvis-Personal-Assistant
 
 ```
 
-2️⃣ Create Virtual Environment (Recommended)
+### 2️⃣ Create Virtual Environment (Recommended)
 
 python -m venv venv
 
@@ -89,7 +89,7 @@ source venv/bin/activate
 
 
 
-3️⃣ Install Required Libraries
+### 3️⃣ Install Required Libraries
 
 pip install -r requirements.txt
 
@@ -97,7 +97,7 @@ pip install -r requirements.txt
 ---
 
 
-4️⃣ Configure Environment Variables
+### 4️⃣ Configure Environment Variables
 
 Copy .env.example to .env and set your values:
 
@@ -121,13 +121,13 @@ FORCE_LANGUAGE=
 
 ---
 
-5️⃣ Run the Application
+### 5️⃣ Run the Application
 
 python jarvis.py
 
 ---
 
-6️⃣ How to Interact
+### 6️⃣ How to Interact
 
 
 Press Enter to start speaking
@@ -139,7 +139,7 @@ Jarvis will respond via voice and print the reply
 
 ---
 
-Supported features:
+### Supported features:
 
 
 Ask about time/date
@@ -157,7 +157,7 @@ Chat and get intelligent replies using OpenAI
 ---
 
 
-**🔮 Future Improvements**
+### **🔮 Future Improvements**
 
 
 Multi-language support for offline STT
@@ -173,7 +173,7 @@ Improved AI interaction with conversation context memory
 
 ---
 
-**👨‍💻 Author**
+### **👨‍💻 Author**
 
 **Adil Khan**
 
@@ -183,7 +183,7 @@ AI & Desktop Assistant Developer
 
 ---
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License.
 
