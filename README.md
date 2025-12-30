@@ -119,7 +119,6 @@ FORCE_LANGUAGE=
 ---
 
 
----
 
 ### 5️⃣ Run the Application
 
