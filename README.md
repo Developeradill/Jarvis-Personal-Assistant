@@ -98,36 +98,24 @@ python jarvis.py
 6️⃣ How to Interact
 
 Press Enter to start speaking
-
 Speak your command or question clearly
-
 Jarvis will respond via voice and print the reply
-
 Supported features:
-
 Ask about time/date
-
 Run apps (open notepad, open calculator)
-
 Open websites (open youtube)
-
 Take notes (take note Buy groceries)
-
 Remember facts (remember that my favorite color is blue)
-
 Chat and get intelligent replies using OpenAI
 
 
-🔮 Future Improvements
+
+**🔮 Future Improvements**
 
 Multi-language support for offline STT
-
 Integration with calendars, reminders, and notifications
-
 More advanced local command execution
-
 GUI interface for easier configuration
-
 Improved AI interaction with conversation context memory
 
 
