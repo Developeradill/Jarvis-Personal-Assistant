@@ -76,36 +76,56 @@ cd Jarvis-Personal-Assistant
 
 
 ```
+
 2️⃣ Create Virtual Environment (Recommended)
+
 python -m venv venv
+
 venv\Scripts\activate
+
 source venv/bin/activate
+
+---
 
 
 
 3️⃣ Install Required Libraries
+
 pip install -r requirements.txt
 
 
+---
+
 
 4️⃣ Configure Environment Variables
+
 Copy .env.example to .env and set your values:
 
+
 OPENAI_API_KEY=your_api_key_here
+
 TTS_RATE=170
+
 TTS_VOLUME=1.0
+
 STT_BACKEND=whisper
+
 WHISPER_MODEL_SIZE=tiny
+
 VOSK_MODEL_DIR=./models/vosk-small-en
+
 FORCE_LANGUAGE=
 
+---
 
+
+---
 
 5️⃣ Run the Application
 
 python jarvis.py
 
-
+---
 
 6️⃣ How to Interact
 
@@ -117,7 +137,7 @@ Speak your command or question clearly
 Jarvis will respond via voice and print the reply
 
 
-
+---
 
 Supported features:
 
@@ -134,6 +154,7 @@ Remember facts (remember that my favorite color is blue)
 
 Chat and get intelligent replies using OpenAI
 
+---
 
 
 **🔮 Future Improvements**
@@ -150,6 +171,8 @@ GUI interface for easier configuration
 Improved AI interaction with conversation context memory
 
 
+---
+
 **👨‍💻 Author**
 
 **Adil Khan**
@@ -157,6 +180,8 @@ Improved AI interaction with conversation context memory
 Computer Systems Engineer
 
 AI & Desktop Assistant Developer
+
+---
 
 📜 License
 
