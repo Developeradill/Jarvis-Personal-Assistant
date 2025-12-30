@@ -69,7 +69,7 @@ Jarvis-Personal-Assistant/
 
 ```
 bash
-git clone https://github.com/YourUsername/Jarvis-Personal-Assistant.git
+git clone https://github.com/Developeradill/Jarvis-Personal-Assistant/tree/main
 cd Jarvis-Personal-Assistant
 
 ```
