@@ -131,10 +131,12 @@ GUI interface for easier configuration
 Improved AI interaction with conversation context memory
 
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 **Adil Khan**
+
 Computer Systems Engineer
+
 AI & Desktop Assistant Developer
 
 📜 License
